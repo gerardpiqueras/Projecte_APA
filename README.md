@@ -2,6 +2,7 @@
 
 
 GESTIÓ DE TASQUES
+
 El nostre projecte consisteix en una aplicació que permet a l’usuari gestionar les seves tasques personals del dia a dia. La interacció és senzilla; es podran dur a terme les següents accions: 
 Crear una nova tasca
 Marcar una tasca com a feta
